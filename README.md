@@ -15,7 +15,7 @@ The case is one of the four core elements to make an AstroPi clone from a Raspbe
 
 and sent them to one of the many online 3D printing hubs [(e. g. MakeXYZ)](https://www.makexyz.com/) to get the case printed. For a few EUROs I got a suitable case. Unfortunately my print shop isn't available anymore.
 
-## SenseHAT##
+## SenseHAT ##
 
 The SenseHAT is another core element. It has a Colour-LED matrix, sensors for acceleration, temperature, humidiy and air pressure as well as a joystick on board abd acts as an user interface on board the ISS.
 
@@ -59,7 +59,7 @@ For stands, spacers, sockets I took parts I already had in stock. It may be diff
 
 As I didn't have much time for a proper assembly after business hours and family needs, it became - as usually - a rather quick and dirty hack. See the following pictures...
 
-###The completed AstroPi###
+### The completed AstroPi ###
 
 ![](AstroPiImages/AstroPi-interior.jpg)
 
