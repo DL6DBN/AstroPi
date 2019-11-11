@@ -61,15 +61,15 @@ As I didn't have much time for a proper assembly after business hours and family
 
 ### The completed AstroPi ###
 
-![](AstroPiImages/AstroPi-interior.jpg)
+![](AstroPi-interior.jpg)
 
 View into the case with camera assembled below the RaspberryPi pcb (mine is a RaspberryPi 3 Model B), Pi and the RTC breakout mounted on one stand.
 
-![](AstroPiImages/AstroPi-finished-front.jpg)
+![](AstroPi-finished-front.jpg)
 
 The finished AstroPi (front and top with breadboard)
 
-![](AstroPiImages/AstroPi-finished-front.jpg)
+![](AstroPi-finished-front.jpg)
 
 The finished AstroPi (back with camera holes and external 40-pin header)
 
