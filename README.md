@@ -46,6 +46,7 @@ I got mine here:
 But other types are available (e.g.):
 
 - [from Adafruit](https://www.adafruit.com/product/3013)
+- [Tutorial](https://learn.adafruit.com/adding-a-real-time-clock-to-raspberry-pi/overview) - helped me with additional info for setup
 
 ## Enhanced Connectivity ##
 
