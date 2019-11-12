@@ -17,7 +17,7 @@ and sent them to one of the many online 3D printing hubs [(e. g. MakeXYZ)](https
 
 ## SenseHAT ##
 
-The SenseHAT is another core element. It has a Colour-LED matrix, sensors for acceleration, temperature, humidiy and air pressure as well as a joystick on board abd acts as an user interface on board the ISS.
+The SenseHAT is another core element. It has a Colour-LED matrix, sensors for acceleration, magnetic field, a gyroscope, temperature, humidity and air pressure as well as a joystick on board that acts as an user interface on board the ISS.
 
 - [SenseHAT Hardware](https://www.raspberrypi.org/products/sense-hat/)
 - [SenseHAT Getting Started](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)
@@ -37,7 +37,7 @@ To get almost full compatibility to the AstroPi's hardware, I added as the next 
 
 ## Real Time Clock ##
 
-On-board the ISS the RaspberryPi has no access to the internet. But the usual Pi gets its real time from a time server somewhere on the web. To get a real time after power-down, the AstroPis are equipped with an additional hardware-based real time clock (RTC) as core element no. 4. I guessed it could be one of the 8523-types.
+On-board the ISS the RaspberryPi has no access to the internet. The usual Pi gets its real time from a time server somewhere on the web. To get a web-independent time after power-down, the AstroPis are equipped with an additional hardware-based real time clock (RTC) as core element no. 4. I guessed it could be one of the 8523-types.
 
 I got mine here:
 
