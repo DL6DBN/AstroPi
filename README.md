@@ -70,7 +70,7 @@ View into the case with camera assembled below the RaspberryPi pcb (mine is a Ra
 
 The finished AstroPi (front and top with breadboard)
 
-![](AstroPi-finished-front.jpg)
+![](AstroPi-finished-back.jpg)
 
 The finished AstroPi (back with camera holes and external 40-pin header)
 
